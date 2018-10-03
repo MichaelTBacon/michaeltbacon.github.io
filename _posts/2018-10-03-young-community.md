@@ -1,5 +1,5 @@
 ---
-title: 'Encountering Iris Marion Young's critique of community'
+title: "Encountering Iris Marion Young's critique of community"
 date: 2018-10-03
 permalink: /posts/2018/10/young-community/
 tags:

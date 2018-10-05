@@ -102,8 +102,8 @@ objects. (note: although Latour, like Derrida, objects to these
 violence, requiring deconstruction. Rather, Latour insists that the separation
 was illusory--a trick of ontology which purports to purify but which is also
 engaged in hybridization.) Indeed, this is the platform from which Young
-builds the separation of individual from community. __Individual__, then,
-becomes immanent -- material, bodily, palpable; __community__, its converse,
+builds the separation of individual from community. _Individual_, then,
+becomes immanent -- material, bodily, palpable; _community_, its converse,
 enters the transcendental realm, cut off from the body, only of the mind. It
 is a short trip, then, to show that in order for this collective state of mind
 to persist, heterogeneity must be kept below some minimum. In Carol Gould's
@@ -191,11 +191,11 @@ global opposite to the localized individual.
 The key way that the functional definition I offer departs from those which
 Young criticizes is that for me, community is simply not a collection of
 people bound by some common though pattern or self-reflected identity. As the
-last blockquote from Young identifies above, community does not __originate__
+last blockquote from Young identifies above, community does not _originate_
 from a shared subjectivity, but rather from a share common feature, or in
 Stephen Gudeman's language, a commons at the core of its constitution. I term
-this commons at the center of community a __binding commons__, (a concept meant
-to build upon Susan Leigh Star's notion of a __boundary object__). The
+this commons at the center of community a _binding commons_, (a concept meant
+to build upon Susan Leigh Star's notion of a _boundary object_). The
 community defined by a neighborhood is bound together by a set of common
 spaces, and the relationship of individual humans to their nonhuman built and
 unbuilt environment goes a long way to structure their position in the
@@ -207,9 +207,14 @@ in the broader community.
 Critically, unlike the forms of community which Young rejects in favor of a
 "politics of difference," no such re-introduction of difference is needed
 here. Because each human individual here holds a specific relationship
-(whether legal, economic, affective, or some other form) to the __binding
-commons__, perhaps radically different relationships, community can now be
+(whether legal, economic, affective, or some other form) to the _binding
+commons_, perhaps radically different relationships, community can now be
 defined to fully include a much broader range of difference.  It also becomes
 far easier for the researcher to describe and map these relationships; whereas
 before shared mental states and common feelings were our only markers, now we
 have spatiotemporally active interactions between actors.
+
+---
+
+Young, Iris Marion. “The Ideal of Community and the Politics of Difference.”
+_Social Theory and Practice_ 12, no. 1 (1986): 1–26.

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is the personal website for Michael T. Bacon, Ph.D. student in the
+Hi, this is the personal website for Michael T. Bacon, Ph.D. candidate in the
 Constructed Environment at the University of Virginia School of Architecture.
 
 My dissertation focuses on the community land buyout movement in rural

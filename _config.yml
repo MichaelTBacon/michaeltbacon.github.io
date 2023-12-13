@@ -72,7 +72,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -81,9 +81,9 @@ analytics:
 author:
   name             : "Michael T. Bacon"
   avatar           : "bacon_photo.jpg"
-  bio              : "Ph.D. Student in the Constructed Environment, UVA School of Architecture. I study land, community, co-operative ownership, community land trusts, ecology, STS, planning theory"
-  location         : "Richmond, VA"
-  employer         : "University of Virginia"
+  bio              : "Research Developer, RENCI, UNC Chapel Hill. In the tech world, I do geospatial data science, Python development, data pipelines, and sociotechnical analysis. Ph.D. Constructed Environment, UVA School of Architecture. Academic research in community, co-operative ownership, community land trusts, ecology, STS, planning theory"
+  location         : "Durham, NC"
+  employer         : "RENCI, UNC Chapel Hill"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "mtb7aj@virginia.edu"
   uri              :
@@ -98,14 +98,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/michael-bacon-a8b41b9/"
   orcid            : "https://orcid.org/0000-0001-6463-8984"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "MichaelTBacon"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
